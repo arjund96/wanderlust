@@ -9,7 +9,7 @@ https://lnkd.in/gexD-n8
 
 
 The Team: <br />
-Arjun Dhingra - Quality Assurance <br />
+Arjun Dhingra - Frontend Developer and Quality Assurance <br />
 Antriksh Saini - Developer <br />
 Chloe Bui - Lead Designer <br />
 Mert Oktem - Lead Developer <br />
